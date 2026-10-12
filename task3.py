@@ -10,5 +10,3 @@ elif bmi > 25 and bmi < 29.9:
     print("Category: Overweight")
 else:
     print("Category: Obese")
-
-
